@@ -1,0 +1,135 @@
+
+
+    
+
+
+    
+
+#project1{
+    width: 170px;
+    
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#project2{
+    width: 190px;
+   
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#project3{
+    width: 140px;
+    
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#project4{
+    width: 190px;
+   
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#project5{
+    width: 190px;
+   
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#project6{
+    width: 190px;
+   
+    background-size: contain;
+    height:35vh;
+    border: solid 4px #0074D9;
+    border-radius: 12px;
+    background-position-x: center;
+    margin: 20px 20px 20px 20px;
+    
+}
+#image1{
+    height: 245px;
+    width: 330px;
+    border-radius: 12px;
+    position: relative;
+    left: -14px;
+    padding: 1px;
+}
+#image2{
+    height: 245px;
+    width: 330px;
+    border-radius: 12px;
+    position: relative;
+    left: -14px;
+    padding: 1px;
+}
+#image3{
+    height: 245px;
+    width: 330px;
+    left: -14px;
+    position: relative;
+    border-radius: 12px;
+    padding: 1px;
+}
+.col{
+    justify-content: center;
+    text-align: center;
+    
+    font-size: 28px;
+    color: #0074D9;
+
+}
+#image4{
+    height: 245px;
+    width: 330px;
+    left: -14px;
+    position: relative;
+    border-radius: 12px;
+    padding: 1px;
+}
+#image5{
+    height: 245px;
+    width: 330px;
+    left: -14px;
+    position: relative;
+    border-radius: 12px;
+    padding: 1px;
+}
+#image6{
+    height: 245px;
+    width: 330px;
+    left: -14px;
+    position: relative;
+    border-radius: 12px;
+    padding: 1px;
+}
+#projects_head{
+    color: ;
+    font-size: 60px;
+    color: #0074D9 ;
+    margin: 40px;
+}

@@ -1,0 +1,12 @@
+.jumbotron{
+    background: url('../assets/indianapolis2.jpg') center bottom;
+    background-size: cover;
+    height: 90vh;
+    color: white;
+    padding: none;
+    margin-bottom: 0;
+    
+}
+.lead{
+    font-size: 30px;
+}

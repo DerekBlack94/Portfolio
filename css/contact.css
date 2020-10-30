@@ -1,0 +1,14 @@
+#contact_row{
+    justify-content: center;
+}
+#contact{
+    height: 80vh;
+}
+#contact_head{
+    margin: 40px;
+    font-size: 50px;
+    color: #0074D9;
+}
+#email{
+    margin: 20px;
+}

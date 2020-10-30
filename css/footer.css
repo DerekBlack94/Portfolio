@@ -1,0 +1,20 @@
+#footer{
+    background-color:#0074D9;
+    height: 100vh;
+}
+.wrapper2{
+    background-color:#0074D9;
+    margin-top: 35px;
+}
+#resume{
+    font-size: 60px;
+    text-align: center;
+   
+    margin-top: 30px;
+    color: white;
+    
+}
+#resumetxt{
+    color: white;
+    margin-top: 40px;
+}
