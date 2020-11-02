@@ -99,9 +99,12 @@
     justify-content: center;
     text-align: center;
     
-    font-size: 28px;
+    font-size: 30px;
     color: #0074D9;
 
+}
+.col:hover{
+    transform: scale(1.20);
 }
 #image4{
     height: 245px;
@@ -128,7 +131,7 @@
     padding: 1px;
 }
 #projects_head{
-    color: ;
+    
     font-size: 60px;
     color: #0074D9 ;
     margin: 40px;

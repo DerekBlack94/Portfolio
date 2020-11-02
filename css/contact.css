@@ -12,3 +12,17 @@
 #email{
     margin: 20px;
 }
+#submit{
+ background-color: white;
+ border: solid 3px #0074D9 ;
+ border-radius: 12px;
+ height: 100%;
+ width: 25%;
+ margin-top: 20px;
+ transition: 0.8s;
+}
+#submit:hover{
+    transition: 0.8s;
+    background-color: #0074D9;
+    color: white;
+}
